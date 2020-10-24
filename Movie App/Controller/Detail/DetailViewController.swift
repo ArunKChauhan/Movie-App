@@ -1,7 +1,6 @@
-//
+
 //  DetailViewController.swift
 
-//
 
 import UIKit
 import SafariServices
