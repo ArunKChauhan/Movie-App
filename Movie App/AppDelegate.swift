@@ -1,8 +1,4 @@
-//
-//  AppDelegate.swift
 
-//
-//
 
 import UIKit
 

@@ -1,8 +1,4 @@
-//
-//  SceneDelegate.swift
 
-//
-//
 
 import UIKit
 
